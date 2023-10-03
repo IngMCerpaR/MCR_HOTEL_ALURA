@@ -4,8 +4,8 @@ Challenge ONE | Java | Back-end | Hotel Alura
 
 
 Desafio Oracle+Alura Hotel Alura! 🏨 
-🚀 Sobre o desafio
-O desafio consiste em implementar métodos utilizando Java e buscando os dados no banco de dados para o Hotel Alura se torna um programa funcional.
+🚀 Sobre el desafio
+ consiste em implementar métodos utilizando Java e buscando los en la base de datos para o Hotel Alura.
 
 Screenshot_1
 
